@@ -1,5 +1,4 @@
 // ==UserScript==
-
 // @name           Gazelle Freeleech Browser
 // @author         SavageCore
 // @namespace      https://savagecore.eu
