@@ -15,7 +15,7 @@
 
 /*	global document GM_getValue	GM_setValue window unsafeWindow */
 
-/* eslint new-cap: "off", no-redeclare: "off" */
+/* eslint new-cap: "off" */
 
 (function () {
 	'use strict';
